@@ -154,3 +154,11 @@ Answer the following **10 theoretical questions**. Answers should be concise, te
 ---
 
 Good luck!
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+I didn't understand the idea of adding the whole previous readme or basically didnt catch what was supposed to be done here correctly. Nevertheless, my sql script is in its supposed file. I used the DuckDB via DataGrip and the dataset from here https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_business.json. The script is pretty basic but it works, also i clear data a bit, and at least second query is kinda funny and insightful. As it seems, all potential requirements were covered. Also, the graphs for results are in page format in this repo. Thank you for your attention!
